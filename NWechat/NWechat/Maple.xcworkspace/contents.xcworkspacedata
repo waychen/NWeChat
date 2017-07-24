@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../Maple/MaplePlayer/MaplePlayer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../DLNAPro/Platinum/Build/Targets/universal-apple-macosx/Platinum.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FDEDF7363B3EAF64F6C079070F106F7AA6D04CCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E0FB641FB43DCFDD92D6FBE773D20C28F805630F" : 9223372036854775807,
+    "FDEDF7363B3EAF64F6C079070F106F7AA6D04CCB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F4629BAA-6EF8-4D93-95FC-D318ED84C00A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E0FB641FB43DCFDD92D6FBE773D20C28F805630F" : "Maple\/",
+    "FDEDF7363B3EAF64F6C079070F106F7AA6D04CCB" : "ImitateWeChat\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Maple",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NWechat\/NWechat\/Maple.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WayChen1212\/MaplePlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0FB641FB43DCFDD92D6FBE773D20C28F805630F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WayChen1212\/ImitateWeChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDEDF7363B3EAF64F6C079070F106F7AA6D04CCB"
+    }
+  ]
+}
