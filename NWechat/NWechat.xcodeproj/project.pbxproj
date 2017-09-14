@@ -7,12 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C5F7CFA1F6AB5A600D2D3AE /* NWConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F7CF91F6AB5A600D2D3AE /* NWConfig.swift */; };
+		5C5F7CFD1F6AB65D00D2D3AE /* NSObject+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F7CFC1F6AB65D00D2D3AE /* NSObject+Extension.swift */; };
+		5C5F7CFF1F6AB7A500D2D3AE /* UIColor+customInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F7CFE1F6AB7A500D2D3AE /* UIColor+customInit.swift */; };
+		5C5F7D011F6AB8EF00D2D3AE /* String+substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F7D001F6AB8EF00D2D3AE /* String+substring.swift */; };
+		5C5F7D031F6AC4AE00D2D3AE /* UICollectionView+extionsion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F7D021F6AC4AD00D2D3AE /* UICollectionView+extionsion.swift */; };
+		5C5F7D051F6AC5C800D2D3AE /* UIImage+Extiontion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F7D041F6AC5C800D2D3AE /* UIImage+Extiontion.swift */; };
 		5CE205821F263E1700BD179A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE205811F263E1700BD179A /* AppDelegate.swift */; };
 		5CE205891F263E1700BD179A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CE205881F263E1700BD179A /* Assets.xcassets */; };
 		5CE2058C1F263E1700BD179A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CE2058A1F263E1700BD179A /* LaunchScreen.storyboard */; };
 		5CE205951F263F5200BD179A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CE205941F263F5200BD179A /* Images.xcassets */; };
 		5CE2059A1F26408A00BD179A /* UIImage+InitFromAsserts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE205991F26408A00BD179A /* UIImage+InitFromAsserts.swift */; };
-		5CE2059C1F26411300BD179A /* NSObject+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE2059B1F26411300BD179A /* NSObject+Extension.swift */; };
 		5CE2059F1F26440200BD179A /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE2059E1F26440200BD179A /* UIViewController+Extension.swift */; };
 		5CE205A11F26470B00BD179A /* NWColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE205A01F26470B00BD179A /* NWColor.swift */; };
 		5CE205A31F26471C00BD179A /* NWFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE205A21F26471C00BD179A /* NWFont.swift */; };
@@ -22,6 +27,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C5F7CF91F6AB5A600D2D3AE /* NWConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NWConfig.swift; sourceTree = "<group>"; };
+		5C5F7CFC1F6AB65D00D2D3AE /* NSObject+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSObject+Extension.swift"; sourceTree = "<group>"; };
+		5C5F7CFE1F6AB7A500D2D3AE /* UIColor+customInit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+customInit.swift"; sourceTree = "<group>"; };
+		5C5F7D001F6AB8EF00D2D3AE /* String+substring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+substring.swift"; sourceTree = "<group>"; };
+		5C5F7D021F6AC4AD00D2D3AE /* UICollectionView+extionsion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionView+extionsion.swift"; sourceTree = "<group>"; };
+		5C5F7D041F6AC5C800D2D3AE /* UIImage+Extiontion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extiontion.swift"; sourceTree = "<group>"; };
 		5CE2057E1F263E1700BD179A /* NWechat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NWechat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CE205811F263E1700BD179A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CE205881F263E1700BD179A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -29,7 +40,6 @@
 		5CE2058D1F263E1700BD179A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5CE205941F263F5200BD179A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		5CE205991F26408A00BD179A /* UIImage+InitFromAsserts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIImage+InitFromAsserts.swift"; path = "../UIImage+InitFromAsserts.swift"; sourceTree = "<group>"; };
-		5CE2059B1F26411300BD179A /* NSObject+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSObject+Extension.swift"; sourceTree = "<group>"; };
 		5CE2059D1F2641EA00BD179A /* NWechatPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NWechatPlayground.playground; sourceTree = "<group>"; };
 		5CE2059E1F26440200BD179A /* UIViewController+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
 		5CE205A01F26470B00BD179A /* NWColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NWColor.swift; sourceTree = "<group>"; };
@@ -50,6 +60,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5C5F7CFB1F6AB65D00D2D3AE /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5C5F7CFC1F6AB65D00D2D3AE /* NSObject+Extension.swift */,
+				5C5F7CFE1F6AB7A500D2D3AE /* UIColor+customInit.swift */,
+				5C5F7D001F6AB8EF00D2D3AE /* String+substring.swift */,
+				5C5F7D021F6AC4AD00D2D3AE /* UICollectionView+extionsion.swift */,
+				5C5F7D041F6AC5C800D2D3AE /* UIImage+Extiontion.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		5CE205751F263E1700BD179A = {
 			isa = PBXGroup;
 			children = (
@@ -93,7 +115,6 @@
 		5CE205961F263F9300BD179A /* Fuctions */ = {
 			isa = PBXGroup;
 			children = (
-				5CE205AA1F264AC900BD179A /* Base */,
 				5CE205A61F26496600BD179A /* Chat */,
 				5CE205A71F26496600BD179A /* Contact */,
 				5CE205A81F26496600BD179A /* Discover */,
@@ -105,11 +126,13 @@
 		5CE205971F263F9300BD179A /* GeneralTool */ = {
 			isa = PBXGroup;
 			children = (
+				5CE205AA1F264AC900BD179A /* Base */,
+				5C5F7CFB1F6AB65D00D2D3AE /* Extensions */,
 				5CE205991F26408A00BD179A /* UIImage+InitFromAsserts.swift */,
-				5CE2059B1F26411300BD179A /* NSObject+Extension.swift */,
 				5CE2059E1F26440200BD179A /* UIViewController+Extension.swift */,
 				5CE205A01F26470B00BD179A /* NWColor.swift */,
 				5CE205A21F26471C00BD179A /* NWFont.swift */,
+				5C5F7CF91F6AB5A600D2D3AE /* NWConfig.swift */,
 			);
 			path = GeneralTool;
 			sourceTree = "<group>";
@@ -156,7 +179,8 @@
 				5CE205AB1F264AE300BD179A /* NWTabbarController.swift */,
 				5CE205AD1F264B0200BD179A /* NWNavgationController.swift */,
 			);
-			path = Base;
+			name = Base;
+			path = ../Fuctions/Base;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,11 +260,16 @@
 				5CE2059F1F26440200BD179A /* UIViewController+Extension.swift in Sources */,
 				5CE205821F263E1700BD179A /* AppDelegate.swift in Sources */,
 				5CE205A11F26470B00BD179A /* NWColor.swift in Sources */,
+				5C5F7CFF1F6AB7A500D2D3AE /* UIColor+customInit.swift in Sources */,
+				5C5F7CFD1F6AB65D00D2D3AE /* NSObject+Extension.swift in Sources */,
 				5CE205A31F26471C00BD179A /* NWFont.swift in Sources */,
 				5CE2059A1F26408A00BD179A /* UIImage+InitFromAsserts.swift in Sources */,
+				5C5F7D011F6AB8EF00D2D3AE /* String+substring.swift in Sources */,
 				5CE205A51F26492800BD179A /* NWManager.swift in Sources */,
 				5CE205AE1F264B0200BD179A /* NWNavgationController.swift in Sources */,
-				5CE2059C1F26411300BD179A /* NSObject+Extension.swift in Sources */,
+				5C5F7CFA1F6AB5A600D2D3AE /* NWConfig.swift in Sources */,
+				5C5F7D051F6AC5C800D2D3AE /* UIImage+Extiontion.swift in Sources */,
+				5C5F7D031F6AC4AE00D2D3AE /* UICollectionView+extionsion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,6 +429,7 @@
 				5CE205921F263E1700BD179A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
